@@ -36,12 +36,12 @@
 | :-----------:      | :-----------: | :-----------: | :-----------: |
 | Chrome             | ✅ | ✅ | ✅ |
 | Edge               | ✅ | ✅ | ✅ |
-| Brave              | ✅ | ✅ | ✅ |
+| Brave              | ✅ | ❌ | ✅ |
 | Firefox            | ✅ | ✅ | ✅ |
 | Opera (GX)         | ✅ | ✅ | ✅ |
 | Opera              | ✅ | ✅ | ✅ |
-| Yandex             | ✅ | ✅ | ✅ |
-| Chromium           | ❌ | ❌ | ✅ |
+| Yandex             | ✅ | ❌ | ✅ |
+| Chromium           | ✅ | ✅ | ✅ |
 ## Install
 
 ### Prerequisites
@@ -55,3 +55,5 @@ This tool is for educational purposes only. It is coded for you to see how your 
 
 ## License:
 By downloading this, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository. For more info see https://commonsclause.com/.
+##  Notes:
+This is very new, recently created by me so please stay with me and if you have any concerns or questions feel free to let me know in the issues category of this page.
