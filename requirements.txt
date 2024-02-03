@@ -1,0 +1,11 @@
+requests
+pycryptodome
+pystyle
+colorama
+discord
+auto_py_to_exe
+pyinstaller
+ctypes
+psutil
+OpenSSL
+pyOpenSSL
